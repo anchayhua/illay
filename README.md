@@ -140,12 +140,12 @@ Depending on your jurisdiction, you may have the right to:
 
 - **Access:** Request a copy of the personal data we hold about you.
 - **Correction:** Update inaccurate or incomplete information (available directly in the App under Profile).
-- **Deletion:** Request deletion of your account and associated data. Submit your request via **Settings → Delete Account** in the App or by emailing [EMAIL_ADDRESS]. We will process your request within 30 days.
+- **Deletion:** Request deletion of your account and associated data. Submit your request via **Settings → Delete Account** in the App or by emailing viajaconillay@gmail.com. We will process your request within 30 days.
 - **Portability:** Request your data in a machine-readable format.
 - **Withdraw Consent:** You may disable location sharing at any time in device settings, though this will limit App functionality.
 - **Object to Processing:** You may object to data processing based on legitimate interests by contacting us.
 
-To exercise any of these rights, contact us at **[EMAIL_ADDRESS]** with the subject line "Privacy Request."
+To exercise any of these rights, contact us at **viajaconillay@gmail.com** with the subject line "Privacy Request."
 
 ---
 
@@ -164,7 +164,7 @@ No method of transmission over the internet is 100% secure. We will notify affec
 
 ## 10. Children's Privacy
 
-Our Apps are **not directed to children under the age of 13** (or the applicable minimum age in your jurisdiction). We do not knowingly collect personal information from children. If you are a parent or guardian and believe your child has provided us with personal information, please contact us at **[EMAIL_ADDRESS]** and we will delete that information promptly.
+Our Apps are **not directed to children under the age of 13** (or the applicable minimum age in your jurisdiction). We do not knowingly collect personal information from children. If you are a parent or guardian and believe your child has provided us with personal information, please contact us at **viajaconillay@gmail.com** and we will delete that information promptly.
 
 ---
 
@@ -184,7 +184,7 @@ Continued use of the Apps after the effective date constitutes acceptance of the
 
 If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us:
 
-- **Email:** [EMAIL_ADDRESS]
+- **Email:** [EMAIL_ADDRESS](viajaconillay@gmail.com)
 - **Website:** [https://viajaconillay.com](https://viajaconillay.com)
 
 We aim to respond to all inquiries within **5 business days**.
