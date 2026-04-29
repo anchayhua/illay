@@ -140,7 +140,7 @@ Depending on your jurisdiction, you may have the right to:
 
 - **Access:** Request a copy of the personal data we hold about you.
 - **Correction:** Update inaccurate or incomplete information (available directly in the App under Profile).
-- **Deletion:** Request deletion of your account and associated data. Submit your request via **Settings → Delete Account** in the App or by emailing support@illay.com. We will process your request within 30 days.
+- **Deletion:** Request deletion of your account and associated data. Submit your request via **Settings → Delete Account** in the App or by emailing [EMAIL_ADDRESS]. We will process your request within 30 days.
 - **Portability:** Request your data in a machine-readable format.
 - **Withdraw Consent:** You may disable location sharing at any time in device settings, though this will limit App functionality.
 - **Object to Processing:** You may object to data processing based on legitimate interests by contacting us.
