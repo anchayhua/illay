@@ -1,6 +1,6 @@
 # Privacy Policy for Illay Apps
 
-**Last Updated:** April 2, 2026
+**Last Updated:** April 29, 2026
 **Version:** 2.0
 
 This Privacy Policy describes how **Illay** ("we," "our," or "us") collects, uses, shares, and protects your personal information when you use the **Illay App** (Passenger) and the **Illay Driver App** (Driver) (collectively, "the Apps").
@@ -145,7 +145,7 @@ Depending on your jurisdiction, you may have the right to:
 - **Withdraw Consent:** You may disable location sharing at any time in device settings, though this will limit App functionality.
 - **Object to Processing:** You may object to data processing based on legitimate interests by contacting us.
 
-To exercise any of these rights, contact us at **support@illay.com** with the subject line "Privacy Request."
+To exercise any of these rights, contact us at **[EMAIL_ADDRESS]** with the subject line "Privacy Request."
 
 ---
 
@@ -164,7 +164,7 @@ No method of transmission over the internet is 100% secure. We will notify affec
 
 ## 10. Children's Privacy
 
-Our Apps are **not directed to children under the age of 13** (or the applicable minimum age in your jurisdiction). We do not knowingly collect personal information from children. If you are a parent or guardian and believe your child has provided us with personal information, please contact us at **support@illay.com** and we will delete that information promptly.
+Our Apps are **not directed to children under the age of 13** (or the applicable minimum age in your jurisdiction). We do not knowingly collect personal information from children. If you are a parent or guardian and believe your child has provided us with personal information, please contact us at **[EMAIL_ADDRESS]** and we will delete that information promptly.
 
 ---
 
@@ -184,8 +184,7 @@ Continued use of the Apps after the effective date constitutes acceptance of the
 
 If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us:
 
-- **Email:** support@illay.com
-- **Website:** [https://illay.com](https://illay.com)
-- **Mailing Address:** [Physical address — TBD]
+- **Email:** [EMAIL_ADDRESS]
+- **Website:** [https://viajaconillay.com](https://viajaconillay.com)
 
 We aim to respond to all inquiries within **5 business days**.
